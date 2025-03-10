@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/murakamishinsei/csharp_sample/csharp_sample.csproj": {}
+    "/Users/murakamishinsei/csharp_sample/Sample01/csharp_sample.csproj": {}
   },
   "projects": {
-    "/Users/murakamishinsei/csharp_sample/csharp_sample.csproj": {
+    "/Users/murakamishinsei/csharp_sample/Sample01/csharp_sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/murakamishinsei/csharp_sample/csharp_sample.csproj",
+        "projectUniqueName": "/Users/murakamishinsei/csharp_sample/Sample01/csharp_sample.csproj",
         "projectName": "csharp_sample",
-        "projectPath": "/Users/murakamishinsei/csharp_sample/csharp_sample.csproj",
+        "projectPath": "/Users/murakamishinsei/csharp_sample/Sample01/csharp_sample.csproj",
         "packagesPath": "/Users/murakamishinsei/.nuget/packages/",
-        "outputPath": "/Users/murakamishinsei/csharp_sample/obj/",
+        "outputPath": "/Users/murakamishinsei/csharp_sample/Sample01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/murakamishinsei/.nuget/NuGet/NuGet.Config"
