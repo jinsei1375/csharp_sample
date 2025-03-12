@@ -1,0 +1,15 @@
+/Users/murakamishinsei/csharp_sample/Sample05/bin/Debug/net7.0/Sample05
+/Users/murakamishinsei/csharp_sample/Sample05/bin/Debug/net7.0/Sample05.deps.json
+/Users/murakamishinsei/csharp_sample/Sample05/bin/Debug/net7.0/Sample05.runtimeconfig.json
+/Users/murakamishinsei/csharp_sample/Sample05/bin/Debug/net7.0/Sample05.dll
+/Users/murakamishinsei/csharp_sample/Sample05/bin/Debug/net7.0/Sample05.pdb
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.csproj.AssemblyReference.cache
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.AssemblyInfoInputs.cache
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.AssemblyInfo.cs
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.csproj.CoreCompileInputs.cache
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.dll
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/refint/Sample05.dll
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.pdb
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/Sample05.genruntimeconfig.cache
+/Users/murakamishinsei/csharp_sample/Sample05/obj/Debug/net7.0/ref/Sample05.dll
